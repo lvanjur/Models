@@ -1,0 +1,13 @@
+Model Metrics:
+Accuracy: 0.8246268656716418
+Precision: 0.8137254901960784
+Recall: 0.7477477477477478
+F1 Score: 0.7793427230046949
+Confusion matrix: [[138  19]
+ [ 28  83]]
+
+Model Feature Importances:
+Female_YN: 0.238684
+Younger_than_14_YN: 0.057464
+Expensive_ticket_YN: 0.054575
+Low_class_YN: 0.094382
